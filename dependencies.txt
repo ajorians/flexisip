@@ -1,0 +1,26 @@
+zypper install git 
+zypper install cmake
+zypper install gcc12*
+zypper install doxygen
+zypper install libopenssl*
+zypper install libnghttp2-devel
+zypper install libsnmp39
+zypper install libxerces-c-devel
+zypper install jsoncpp-devel
+zypper install protobuf-devel
+zypper install hiredis-devel
+zypper install sqlite3-devel
+zypper install libsrtp2-devel libsrtp-devel
+zypper install libopenssl-1_1-devel
+zypper install docker
+zypper install postgresql-devel
+zypper install libjansson-devel
+zypper install speex-devel
+zypper install xorg-x11-devel
+zypper install glew-devel
+zypper install libxml2-devel
+zypper install python310-pystache
+zypper install net-snmp-devel 
+zypper install libmariadb-devel
+zypper install jsoncpp-devel
+zypper install libjson-c-devel
